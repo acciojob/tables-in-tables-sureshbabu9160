@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+table{
+	border:1px solid black;
+	margin:0;
+}
+#t4 td{
+	border:1px solid black;
+	
+}
+#html{
+	color:white;
+	padding-left:90px;
+	background-color:black;
+}
+#t4 tr,td{
+	border:1px solid black;
+	padding:20px;
+}
